@@ -60,4 +60,4 @@ The data that Liri will provide back is related to three different catergories.
   * Defaulted value if no movie is provided "The Sign" by Ace of Base.'Mr. Nobody.'
 
 
-  Thank you for viewing my LIRI-NODE-APP for any question please feel to visit my website <a href="https://tomaszchylinski.github.io/chylinski-tomasz-portfolio/contact.html"></a>
+  Thank you for viewing my LIRI-NODE-APP for any question please feel to visit my portfolio  <a href="https://tomaszchylinski.github.io/chylinski-tomasz-portfolio/contact.html">page</a>
