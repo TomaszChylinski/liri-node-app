@@ -18,6 +18,7 @@ The data that Liri will provide back is related to three different catergories.
                 * Venue location
                 * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+
  <img src="assets/images/concert-search.png">
 
 ## Search for song
