@@ -27,10 +27,12 @@ The data that Liri will provide back is related to three different catergories.
   
         -- The following responses are expected to be returned upon a successful song search. 
 
-                * Artist(s)
-                * The song's name
-                * A preview link of the song from Spotify
-                * The album that the song is from
+                * Artist(s).
+                * The song's name.
+                * A preview link of the song from Spotify.
+                * The album that the song is from.
+
+<img src="assets/images/spotify--song-search.png">
 
 ## Search for movie 
 
