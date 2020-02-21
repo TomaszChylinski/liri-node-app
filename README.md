@@ -19,8 +19,8 @@ The data that Liri will provide back is related to three different catergories.
                 * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 
- <img src="assets/images/concert-search.png">
 
+ <img src="assets/images/concert-search.png">
 ## Search for song
 
 - To inialize a song search the user must type in the following command in the terminal 'node liri spotify-this-song "title-of-song"'.
@@ -32,8 +32,6 @@ The data that Liri will provide back is related to three different catergories.
                 * The song's name
                 * A preview link of the song from Spotify
                 * The album that the song is from
-
- <img src="assets/images/spotify-song-search.png">
 
 ## Search for movie 
 
