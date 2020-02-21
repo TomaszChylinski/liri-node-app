@@ -7,21 +7,21 @@ The data that Liri will provide back is related to three different catergories.
 
 ## What type of searches does Liri perform 
 
+## Search for artist/band
 
-
-
-
-## Search for band
-
-
+- To inialize a song search the user must type in the following command in the terminal 'node liri spotify-this-song "title-of-song"'.
+        Please note that "spotify-this-song" is highly important as it allows the application to identify that search the user is tring to execute is a search for a song. 
+  
         -- The following responses are expected to be returned upon a successful song search. 
  
                 * Name of the venue
                 * Venue location
                 * Date of the Event (use moment to format this as "MM/DD/YYYY")
-
+                
+ <img src="assets/images/spotify-concert-search.PNG">
 
 ## Search for song
+
 - To inialize a song search the user must type in the following command in the terminal 'node liri spotify-this-song "title-of-song"'.
         Please note that "spotify-this-song" is highly important as it allows the application to identify that search the user is tring to execute is a search for a song. 
   
@@ -36,7 +36,7 @@ The data that Liri will provide back is related to three different catergories.
 
 ## Search for movie 
 
-    - To inialize a movie search the user must type in the following command in the terminal 'node liri movie-this "title-of-movie"'.
+- To inialize a movie search the user must type in the following command in the terminal 'node liri movie-this "title-of-movie"'.
         Please note that "movie-this" is highly important as it allows the application to identify that search the user is tring to execute is a search for a movie.
  
         -- The following responses are expected to be returned upon a successful movie search. 
@@ -50,13 +50,14 @@ The data that Liri will provide back is related to three different catergories.
                 * Plot of the movie.
                 * Actors in the movie.
 
-
   <img src="assets/images/movie-search.png">
 
 
   ## Default search if no input is found
 
-  If no song is provided then your program will default to "The Sign" by Ace of Base.
-  If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+  * Defaulted value if no artist/band is provided "Ozuna".
+  * Defaulted value if no song is provided "The Sign" by Ace of Base.
+  * Defaulted value if no movie is provided "The Sign" by Ace of Base.'Mr. Nobody.'
+
 
   Thank you for viewing my LIRI-NODE-APP for any question please feel to visit my website <a href="https://tomaszchylinski.github.io/chylinski-tomasz-portfolio/contact.html"></a>
