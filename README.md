@@ -17,7 +17,7 @@ The data that Liri will provide back is related to three different catergories.
                 * Name of the venue
                 * Venue location
                 * Date of the Event (use moment to format this as "MM/DD/YYYY")
-                
+<img src="assets/images/concert-search.png">
 ## Search for song
 
 - To inialize a song search the user must type in the following command in the terminal 'node liri spotify-this-song "title-of-song"'.
